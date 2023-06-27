@@ -1231,11 +1231,11 @@ td.visible-print,th.visible-print{display:table-cell!important}
 @media print{.hidden-print{display:none!important}
 }
 body{color:#222;font-family:"Microsoft Yahei",sans-serif;position:relative}
-body,html{overflow-x:hidden}
+/* body,html{overflow-x:hidden}
 @media (max-width:767px){body,html{overflow-x:hidden;min-width:320px}
 }
 @media (max-width:767px){body,html{overflow-x:hidden;min-width:320px}
-}
+} */
 a,button{-webkit-transition:all .35s;transition:all .35s}
 .zoom img{-webkit-transition:transform .5s,-webkit-transform .5s;transition:transform .5s,-webkit-transform .5s}
 .zoom a:hover img{display:block;-webkit-transform:scale(1.1);transform:scale(1.1)}
@@ -2149,7 +2149,6 @@ a.continue_button{cursor:pointer;display:inline-block;border:0;background:#ab000
       -ms-flex-align: center;
           align-items: center;
   text-transform: uppercase;
-  /* margin-bottom: 30px; */
 }
 .tm-work-item-inner .icn img{
 	width: 80%;
