@@ -252,7 +252,7 @@
 .all_title2 {
 	margin-bottom: 50px;
 	text-align: center;
-	color: #fff;
+	color: #000000;
 }
 .all_title2 .title {
 	font-size: 35px;
@@ -399,7 +399,9 @@
 	background: #000;
 	background: rgba(0, 0, 0, 0);
 	background-image: url(../images/bg-new.png);
-	height: 788px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .mpage {
 	width: 100%;
@@ -421,8 +423,7 @@
 .banner_title {
 	color: #fff;
 	font-size: 60px;
-	padding-top: 280px;
-	padding: 280px 20px;
+	padding: 20px 20px;
 }
 .banner_text {
 	color: #9ad0ff;
@@ -893,7 +894,7 @@
 	color: #333;
 }
 .partners {
-	padding: 40px 0;
+	/* padding: 40px 0; */
 }
 .partners_content {
 	text-align: center;
@@ -1532,26 +1533,29 @@
 	color: #969696;
 }
 .cloud_platform {
-	padding: 100px 0;
-	background: url(../images/076.jpg) center top repeat;
+	/* padding: 100px 0; */
+	/* background: url(../images/076.jpg) center top repeat; */
 }
 .cloud_platform_content {
 	overflow: hidden;
 	margin: 80px 0 80px -30px;
 }
 .cloud_platform_list {
+	color: white;
 	display: block;
 	margin-left: 30px;
-	background: #fff;
+	background: #0e93ff;
 	text-align: center;
 	padding: 60px 20px;
+	border-radius: 20px;
 }
 .cloud_platform_list_title {
-	font-size: 16px;
-	color: #333;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: bold;
 }
 .cloud_platform_list_text {
-	color: #aeaeae;
+	color: #ffffff;
 	/* height: 40px; */
 	line-height: 20px;
 	/* overflow: hidden; */

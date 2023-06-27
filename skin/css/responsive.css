@@ -46,7 +46,7 @@
 	height: 600px;
 }
 .banner_title {
-	padding-top: 150px;
+	/* padding-top: 150px; */
 }
 .banner .owl-prev {
 	margin-left: 20px;
@@ -244,7 +244,7 @@
 	top: 15%;
 }
 .partners {
-	padding: 60px 0;
+	/* padding: 60px 0; */
 }
 .partners_content_list {
 	margin: 10px 10px;
@@ -335,7 +335,7 @@
 	text-align: center;
 }
 .cloud_platform {
-	padding: 60px 0;
+	/* padding: 60px 0; */
 }
 .cloud_platform_content {
 	overflow: hidden;
@@ -398,7 +398,7 @@
 }
  @media screen and (max-width: 767px) {
 .banner {
-	height: 500px;
+	height: 200px;
 	background-position: center -380px;
 }
 .banner .owl-pagination {
@@ -406,7 +406,7 @@
 }
 .banner_title {
 	font-size: 30px;
-	padding-top: 180px;
+	/* padding-top: 180px; */
 }
 .index_product {
 	padding: 40px 0;
@@ -445,7 +445,7 @@
 	top: 30%;
 }
 .partners {
-	padding: 40px 0;
+	/* padding: 40px 0; */
 }
 .partners_content_list {
 	margin: 10px 10px;
@@ -555,7 +555,7 @@
 	font-size: 14px;
 }
 .cloud_platform {
-	padding: 40px 0;
+	/* padding: 40px 0; */
 }
 .cloud_platform_content {
 	overflow: hidden;
