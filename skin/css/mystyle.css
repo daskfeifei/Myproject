@@ -1322,7 +1322,7 @@ padding:0px 20px}
 .busbox .pic-icon{width:110px;text-align:center;text-indent:-10px}
 .busbox .more{color:#FFF}
 .busbox:hover .text h3{color:#0c65bb}
-@media (max-width:991px){.busbox:first-child{border-top:0}
+@media (max-width:991px){.busbox:first-child{border-top:1px dashed #a7a6a6}
 .busbox .pic-icon{width:80px}
 .busbox .pic-icon img{width:60px}
 }
