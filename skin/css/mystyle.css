@@ -1794,7 +1794,7 @@ a.close-contact2:hover{opacity:1}
 .busbox.sb:hover .b2{text-align:left;top:5%}
 @media (min-width:768px) and (max-width:991px){.busbox.sb:hover .b2{top:-30%}
 }
-@media (max-width:478px){.busbox.sb:hover .b2{top:-40%}
+@media (max-width:478px){.busbox.sb:hover .b2{top:-10%}
 }
 .busbox.sb:hover .b2 p{opacity:1;filter:alpha(opacity=100)}
 #map *{box-sizing:content-box;-webkit-box-sizing:content-box}
